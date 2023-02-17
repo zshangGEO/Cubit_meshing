@@ -1,0 +1,7 @@
+get_node_count()
+get_element_count()
+get_volume_element_count (int volume_id)
+get_surface_normal (int surface_id)
+get_volume_hexes (int volume_id)
+get_surface_nodes (int surface_id)
+get_volume_nodes (int volume_id)
